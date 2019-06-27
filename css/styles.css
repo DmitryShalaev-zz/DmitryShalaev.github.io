@@ -1,13 +1,11 @@
-body {
-  color: red;
-  font-size: 15px;
-  background-color: #FFFFFFFF;
+body h1 {
+  font-size: 40px;
 }
 body button {
-  background-color: #9063A1FF;
+  background-color: #FFEF00FF;
 }
 body button a {
-  font-size: 45px;
-  color: black;
+  font-size: 405px;
+  color: white;
   text-decoration: none;
 }
